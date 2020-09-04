@@ -1,4 +1,0 @@
-# JoyAIx
-
-dasd
-fwfee
