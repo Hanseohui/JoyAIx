@@ -1,2 +1,0 @@
-# JoyAIx
-## Be joy full 
