@@ -1,0 +1,10 @@
+pwd
+mkdir myfolder
+cd myfolder
+pwd
+echo 'Hello Ward' > hello.txt
+ls
+cat hello.txt 
+ri hello.txt
+cd..
+rm myfolder  
